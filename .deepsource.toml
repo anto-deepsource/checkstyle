@@ -6,4 +6,4 @@ exclude_patterns = ["**/resources/**"]
 name = "java"
 
   [analyzers.meta]
-  java_version = "11"
+  runtime_version = "11"
